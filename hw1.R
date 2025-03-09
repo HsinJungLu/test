@@ -13,3 +13,4 @@ summary <- function(input_path, output_path) {
 #summary("input1.csv","output1.csv")
 #summary("input2.csv","output2.csv")
 #summary("input3.csv","output3.csv")
+# 相對路徑
